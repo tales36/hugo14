@@ -3,7 +3,7 @@ title: "CMP302_AWS_Outposts_Extend_The_AWS_Experience_To_On_Premises_Environment
 date: 2019-12-05T09:43:27+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■AWS Outpostsとは

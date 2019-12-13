@@ -3,7 +3,7 @@ title: "STG238_Deep_dive_File_storage_for_business_critical_applications"
 date: 2019-12-06T07:36:23+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■はじめに

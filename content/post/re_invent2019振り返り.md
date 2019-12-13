@@ -3,7 +3,7 @@ title: "Re_invent2019振り返り"
 date: 2019-12-07T17:47:33+09:00
 author: "katsutoshi miyata"
 tags: ["日常系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■参加してみての所感

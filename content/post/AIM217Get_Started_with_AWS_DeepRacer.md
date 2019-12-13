@@ -3,7 +3,7 @@ title: "AIM217Get_Started_with_AWS_DeepRacer"
 date: 2019-12-03T09:03:56+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## DeepRacer Workshop

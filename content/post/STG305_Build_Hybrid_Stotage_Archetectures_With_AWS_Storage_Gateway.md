@@ -3,7 +3,7 @@ title: "STG305_Build_Hybrid_Stotage_Archetectures_With_AWS_Storage_Gateway"
 date: 2019-12-05T08:23:01+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■AWSストレージゲートウェイとは

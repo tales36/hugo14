@@ -3,7 +3,7 @@ title: "ARC338_How_Goldman_Sachs_Minimizes_TheImpact_Of_Managing_Events"
 date: 2019-12-05T10:26:45+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■はじめに

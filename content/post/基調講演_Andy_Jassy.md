@@ -3,7 +3,7 @@ title: "基調講演_Andy_Jassy"
 date: 2019-12-04T03:49:23+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■今回のAWS re:inventについて

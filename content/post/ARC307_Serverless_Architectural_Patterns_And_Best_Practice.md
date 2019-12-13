@@ -3,7 +3,7 @@ title: "ARC307_Serverless_Architectural_Patterns_And_Best_Practice"
 date: 2019-12-05T13:08:38+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■はじめに

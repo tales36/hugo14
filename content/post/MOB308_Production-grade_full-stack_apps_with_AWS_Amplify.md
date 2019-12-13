@@ -3,7 +3,7 @@ title: "MOB308_Production Grade_full Stack_apps_with_AWS_Amplify"
 date: 2019-12-03T02:26:12+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## 飛行機の予約システムつくってみた

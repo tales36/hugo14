@@ -3,7 +3,7 @@ title: "DOP204_Transforming_IT_Pros_To_DevOps_gurus_How_To_Secure_Your_New_Tech_
 date: 2019-12-04T09:53:56+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■DevOpsの達人となる為に

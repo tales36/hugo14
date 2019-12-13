@@ -3,7 +3,7 @@ title: "CMP304_AWS_infrastructure_For_Large_scale_Distributed_Training_At_Facebo
 date: 2019-12-06T11:20:40+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
-cover: ../../img/awsreinvent2019.jpg
+image: '../../img/awsreinvent2019.jpg'
 ---
 
 ## ■はじめに
