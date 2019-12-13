@@ -1,5 +1,5 @@
 baseurl = "https://days.19900119.xyz/"  # Include trailing slash
-title = "Hugo Themes"
+title = "Miyata's memorandum"
 theme = "hugo-swift-theme"
 author = "katsutoshi miyata"
 copyright = "Copyright © 1990–2019, katsutoshi miyata all rights reserved."
